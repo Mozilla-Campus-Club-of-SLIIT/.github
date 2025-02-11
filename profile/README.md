@@ -1,5 +1,5 @@
 <h1 align="center" width="100%">
- Welcome to SLIIT Mozilla Campus Club!
+ Welcome to The Mozilla Campus Club of SLIIT!
 </p>
 <br/>
 <p align="center" width="100%">
