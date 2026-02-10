@@ -3,7 +3,7 @@
 </p>
 <br/>
 <p align="center" width="100%">
-  <a href="https://github.com/sliit-foss">
+  <a href="https://github.com/Mozilla-Campus-Club-of-SLIIT">
     <img src="https://github.com/Mozilla-Campus-Club-of-SLIIT/brand-assets/blob/b7ac32bb636156a3366f2abecf6daa32edaf0185/Logos/Main%20logo%20White%20Variant.png" height="125"/>
   </a>
  <p>
